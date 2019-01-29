@@ -16,7 +16,5 @@ import cucumber.api.junit.Cucumber;
 		strict = false
 		)
 public class Runner {
-	
-	
 
 }
