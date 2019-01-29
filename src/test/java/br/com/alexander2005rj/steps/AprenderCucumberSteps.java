@@ -1,10 +1,11 @@
+package br.com.alexander2005rj.steps;
 import org.junit.Assert;
 
 import cucumber.api.java.pt.Dado;
 import cucumber.api.java.pt.Então;
 import cucumber.api.java.pt.Quando;
 
-public class AprenderCucumber {
+public class AprenderCucumberSteps {
 	
 	private int contador = 0;
 
