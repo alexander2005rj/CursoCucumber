@@ -1,4 +1,5 @@
 # language: pt
+
 @ignore
 Funcionalidade: Aprender Cucumber
 	Como um aluno
@@ -49,7 +50,7 @@ Cenário: Deve criar steps genéricos para estes passos
     Dado que o nome do passageiro é "Cicrano de Oliveira"
     Dado que o telefone do passageiro é 9888-8888
 
-@ignore
+
   Cenário: Deve negar todos os steps "Dado" dos cenários anteriores
     Dado que o ticket é CD123
     Dado que o ticket é AG1234
